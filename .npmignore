@@ -1,0 +1,26 @@
+# Source files (dist is published)
+nodes/
+credentials/
+test/
+
+# Config files
+tsconfig.json
+jest.config.js
+.eslintrc.js
+.prettierrc
+
+# Development
+.git/
+.github/
+.vscode/
+.idea/
+
+# Test
+coverage/
+*.test.ts
+
+# Build artifacts
+*.tgz
+
+# Documentation (README is included)
+docs/
